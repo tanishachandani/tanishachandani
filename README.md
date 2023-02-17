@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tanisha Chandani!</h1>
 <h3 align="center">A rookie developer with a flair for turning bugs into features.</h3>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **backend development**
+
+- 👾 Exploring **ML and Cloud technologies** in bits and bytes
 
 - 📝 I regularly write articles on [https://tanishachandani.hashnode.dev/](https://tanishachandani.hashnode.dev/)
 
-- 📫 How to reach me **tanishachandani119@gmail.com**
+- 📫 Reach me at **tanishachandani119@gmail.com**
 
-- 💬 Ask me about **my cat**
+- 🐈‍⬛ Ask me about **my cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
