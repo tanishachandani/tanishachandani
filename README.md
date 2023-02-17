@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanisha Chandani!</h1>
 <h3 align="center">A rookie developer with a flair for turning bugs into features.</h3>
 
-- 🌱 I’m currently learning **Front-end frameworks like JS, React.js along with some Python**
+- 🌱 I’m currently learning **Backend development**
 
 - 📝 I regularly write articles on [https://tanishachandani.hashnode.dev/](https://tanishachandani.hashnode.dev/)
 
