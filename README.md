@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 👾 Exploring **ML and Cloud technologies** in bits and bytes
+- 👾 Exploring **Cloud technologies** in bits and bytes
 
 - 📝 I regularly write articles on [https://tanishachandani.hashnode.dev/](https://tanishachandani.hashnode.dev/)
 
